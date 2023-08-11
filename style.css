@@ -3,6 +3,12 @@
     display: flex;
 }
 
+body {
+    background-color: darkgrey;
+    display: flex;
+    flex-direction: column;
+}
+
 h1 {
     background-color: black;
     color: red;
