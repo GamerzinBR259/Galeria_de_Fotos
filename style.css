@@ -1,6 +1,7 @@
 *{
     background-color: darkgrey;
     display: flex;
+    flex-direction: column;
 }
 
 body {
